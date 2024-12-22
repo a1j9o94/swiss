@@ -1,0 +1,8 @@
+#Git ignore for python project with .venv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
